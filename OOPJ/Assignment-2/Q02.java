@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EvenOddBitwise {
+public class Q02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");

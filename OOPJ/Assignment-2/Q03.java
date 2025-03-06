@@ -1,4 +1,4 @@
-public class Q03{
+public class Question03{
 	public static void main(String[] args){
 		int n = 123456;
 		int result = 0;

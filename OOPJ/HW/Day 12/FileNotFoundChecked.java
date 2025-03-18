@@ -1,7 +1,7 @@
 import java.io.*;
 import java.io.FileReader;
 
-public class IOExceptionChecked {
+public class FileNotFoundChecked {
 	public static void main(String args[]) {
 		String fileName = "XYZ.txt"; // File that does not exist
 
